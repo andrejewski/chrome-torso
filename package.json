@@ -1,0 +1,25 @@
+{
+  "name": "chrome-torso",
+  "version": "0.0.1",
+  "description": "Chrome Headless from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejewski/chrome-torso.git"
+  },
+  "keywords": [
+    "chrome",
+    "headless",
+    "testing",
+    "api"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com> (chrisandrejewski.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejewski/chrome-torso/issues"
+  },
+  "homepage": "https://github.com/andrejewski/chrome-torso#readme"
+}
